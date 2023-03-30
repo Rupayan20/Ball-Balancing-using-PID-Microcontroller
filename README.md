@@ -1,5 +1,10 @@
-# Ball-Balancing-using-PID-Microcontroller
-PID microcontroller balances ball on the surface in Control System Lab Project in 6th semester.
+<h1 align ='center'>Control System Lab Project</h1>
+
+---
+
+<h1 align ='center'>Ball-Balancing-using-PID-Microcontroller</h1>
+
+<br>
 
 
 ## Contributers:
